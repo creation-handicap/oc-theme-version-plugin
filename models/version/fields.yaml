@@ -1,0 +1,7 @@
+fields:
+    version:
+        label: Version
+        span: full
+        required: 1
+        type: text
+        commentAbove: Any string to force cache refresh. Recommended is semantic versioning, e.g. 1.2.1.

@@ -1,0 +1,9 @@
+{
+    "name": "creationhandicap/themeversion",
+    "type": "october-plugin",
+    "description": "Intended to force cache refresh, if you e.g. replace an image asset with a new one, while keeping its name. Usually clear cache should be enough to force cache refresh assets.",
+    "require": {
+        "composer/installers": "~1.0",
+        "october/rain": ">=3.0"
+    }
+}

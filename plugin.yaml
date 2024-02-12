@@ -1,0 +1,10 @@
+plugin:
+    name: 'creationhandicap.themeversion::lang.plugin.name'
+    description: 'creationhandicap.themeversion::lang.plugin.description'
+    author: 'création handicap'
+    icon: oc-icon-adjust
+    homepage: ''
+permissions:
+    themeVersion:
+        tab: 'Theme version'
+        label: 'Theme version'
